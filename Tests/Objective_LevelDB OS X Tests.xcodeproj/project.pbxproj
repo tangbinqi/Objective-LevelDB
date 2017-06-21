@@ -129,7 +129,7 @@
 			attributes = {
 				LastUpgradeCheck = 0500;
 			};
-			buildConfigurationList = D0E9809518356216000BD668 /* Build configuration list for PBXProject "Objective-LevelDB OS X Tests" */;
+			buildConfigurationList = D0E9809518356216000BD668 /* Build configuration list for PBXProject "Objective_LevelDB OS X Tests" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -306,7 +306,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D0E9809518356216000BD668 /* Build configuration list for PBXProject "Objective-LevelDB OS X Tests" */ = {
+		D0E9809518356216000BD668 /* Build configuration list for PBXProject "Objective_LevelDB OS X Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0E9809618356216000BD668 /* Debug */,

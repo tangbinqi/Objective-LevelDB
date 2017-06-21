@@ -9,7 +9,9 @@ By far, the easiest way to integrate this library in your project is by using [C
 1. Have [Cocoapods][1] installed, if you don't already
 2. In your Podfile, add the line 
 
-        pod 'Objective-LevelDB'
+        pod 'Objective_LevelDB'  
+##！ pod 'Objective-LevelDB' => pod 'Objective_LevelDB' Xcode的module不能识别带中划线的pod名称
+
 
 3. Run `pod install`
 4. Make something awesome.
